@@ -1,0 +1,10 @@
+  <View>
+ <View>
+        <Icon
+        flex='row'
+        name='menu'
+        type='ionicon'
+        color='blue'
+        />
+      </View>
+      </View>
