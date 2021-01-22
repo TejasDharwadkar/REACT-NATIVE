@@ -5,9 +5,6 @@ import { Image,StyleSheet, Text, View, TouchableOpacity,ToastAndroid   } from 'r
 import { AntDesign } from '@expo/vector-icons';
 import logo from './assets/Carimg1.jpg';
 import logo1 from './assets/MaybachExelero.jpg';
-import { ViewPropTypes } from 'react-native';
-import { Inter_900Black } from '@expo-google-fonts/inter';
-
 
 export default function App() {
   console.log("App is running");
